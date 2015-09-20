@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<Alarmer>
+		<amq>
+			<broker-url>tcp://125.216.243.185:61616</broker-url>
+			<queue-name>Queue.Alarm.Tasks</queue-name>
+		</amq>
+	</Alarmer>
+</config>
